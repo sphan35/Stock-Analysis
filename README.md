@@ -1,2 +1,3 @@
-# Looking at Stocks 
-Backing up our Work from Visual Basic Analysis
+# Looking at Stocks and Providing analysis
+## Overview of Project
+  *The purpose of this project was to expand upon the analysis done with our Client Steve via our VBA excel workbook to analyze a whole dataset of stocks from the stock market beyond just "DQ", but an additional 11 stocks. To further help Steve and his family examine the stock market and decide the right stock to invest in, our excel workbook was adjusted to be more efficient and comprehensible. This modification was achieveable by refactoring our code in a way that would "run" the VBA script more efficiently through precise and improved logic of our code. The refactoring of code was the needed "editing" to output the needed information of stock returns and total volume at a much faster rate. The refined data provided a muc 
